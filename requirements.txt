@@ -78,3 +78,4 @@ wasabi==0.9.1
 Werkzeug==2.1.1
 youtube-transcript-api==0.4.4
 zipp==3.8.0
+
